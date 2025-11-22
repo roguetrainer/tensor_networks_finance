@@ -291,7 +291,7 @@ Contributions welcome! Areas of interest:
 - **TensorLy-Torch**: PyTorch integration for TNNs
 - **TensorNetwork (Google)**: High-performance contractions
 
-See `docs/REFERENCES.md` for complete bibliography.
+See [`docs/REFERENCES.md`](./docs/REFERENCES.md) for complete bibliography.
 
 ## License
 
@@ -303,7 +303,7 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @software{tensor_networks_finance,
-  author = {Ian Hincks},
+  author = {Ian Buckley},
   title = {Tensor Networks for Finance},
   year = {2024},
   url = {https://github.com/yourusername/tensor_networks_finance}
