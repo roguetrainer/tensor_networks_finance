@@ -2,6 +2,8 @@
 
 A comprehensive Python package demonstrating the application of Tensor Network methods to financial problems, including derivative pricing, risk management, and machine learning.
 
+![](./tensor-networks-finance.png)
+
 ## Overview
 
 Tensor Networks solve the "Curse of Dimensionality" by compressing high-dimensional functions into chains of small tensors. This enables:
