@@ -310,12 +310,6 @@ If you use this code in your research, please cite:
 }
 ```
 
-## Contact
-
-For questions, suggestions, or collaboration:
-- GitHub Issues: [link]
-- Email: [your email]
-- LinkedIn: [your profile]
 
 ## Acknowledgments
 
