@@ -1,7 +1,7 @@
-👋 Hello Tensor Networks World!
-🤝 Tensor Networks meet Quant Finance
+👋 Hello TENSOR NETWORKS World! 🌍
+🤝 TENSOR NETWORKS meet QUANT FINANCE
 
-Playing around at the interesting intersection between ⚛️ QUANTUM COMPUTING techniques and 🤑 QUANTITATIVE FINANCE. This project demonstrates how tensor network methods can address some longstanding computational challenges in derivatives pricing and risk management.
+Playing around at the interesting intersection between ⚛️ QUANTUM COMPUTING techniques and 🤑 QUANTITATIVE FINANCE. This project demonstrates how TENSOR NETWORK methods can address some longstanding computational challenges in derivatives pricing and risk management.
 
 🧙🏼‍♀️ The core problem many of us in finance face is the CURSE OF DIMENSIONALITY. Pricing a basket option on 10 assets using traditional grid methods would require storing 10^18 points - physically impossible. Monte Carlo helps but remains slow and noisy. 🐌
 
@@ -25,4 +25,22 @@ As well as code, find documentation covering the mathematical foundations and pr
 🔗 https://github.com/roguetrainer/tensor_networks_finance/
 
 #QuantitativeFinance #QuantumComputing #DeepLearning #DerivativesPricing #FinancialEngineering #DataScience #RiskManagement #FinTech #AI #Innovation #TensorNetwork #XVA #CVA #CreditValueAdjustment #TensorTrain #CurseOfDimensionality
+
+---
+---
+---
+
+
+ZX CALCULUS VS TENSOR NETWORKS
+
+Note that the ZX Calculus & Tensor Networks are intimately related. In fact, ZX Calculus is a specialized dialect of Tensor Networks.
+
+Both belong to the field of GRAPHICAL LINEAR ALGEBRA (using pictures to do matrix math), but they serve slightly different purposes in the computational pipeline.
+
+Further details:
+🔗 https://github.com/roguetrainer/zx-calculus-demo/blob/main/ZX_CALCULUS_VS_TENSOR_NETWORKS.md 👀
+
+See repos:
+* 💰 tensor_networks_finance - https://github.com/roguetrainer/tensor_networks_finance/
+* 🕷️ zx-calculus-demo -https://github.com/roguetrainer/zx-calculus-demo
 
