@@ -305,8 +305,8 @@ If you use this code in your research, please cite:
 @software{tensor_networks_finance,
   author = {Ian Buckley},
   title = {Tensor Networks for Finance},
-  year = {2024},
-  url = {https://github.com/yourusername/tensor_networks_finance}
+  year = {2025},
+  url = {https://github.com/roguetrainer/tensor_networks_finance}
 }
 ```
 
